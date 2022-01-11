@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![me](https://user-images.githubusercontent.com/85308756/149034089-8b47103d-dac4-4a2b-a941-d6b95eafbf3a.png)
+
+
+You can find me 🌱:
+- [Youtube] [https://www.youtube.com/watch?v=O4g71xhm-3U&list=RDO4g71xhm-3U&start_radio=1]
+- [Instagram] [https://www.instagram.com/edisonrivera02/]
+- [Correo Electrónico] [edison.rivera@epn.edu.ec]
 <!--
 **EdisonRivera/EdisonRivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
