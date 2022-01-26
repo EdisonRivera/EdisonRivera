@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div aling=center>
+<div aling="center">
   ![me](https://user-images.githubusercontent.com/85308756/149034089-8b47103d-dac4-4a2b-a941-d6b95eafbf3a.png)
 </div>
 
