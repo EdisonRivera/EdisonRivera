@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hola a todos, mi nombre es Edison Rivera. 👀
 
 
 
 You can find me 🌱:
-- [Youtube](https://www.youtube.com/watch?v=O4g71xhm-3U&list=RDO4g71xhm-3U&start_radio=1)
 - [Instagram](https://www.instagram.com/edisonrivera02/)
 - [Correo Electrónico](edison.rivera@epn.edu.ec)
 
@@ -12,6 +11,5 @@ You can find me 🌱:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently studying on Escuela Politécnica Nacional
 - 🌱 I’m currently learning OSWP
-- ⚡ Fun fact: Mi nombre es Edison Rivera
