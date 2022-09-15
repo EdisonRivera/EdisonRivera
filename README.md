@@ -1,4 +1,4 @@
-![MasterHead](media/banner.jpg)]
+![MasterHead](media/banner.jpg)
 <h1 align="center">Edison Rivera</h1>
 
 <img align="right" alt="Coding" width="400" src="media/programmer_gif.gif">
