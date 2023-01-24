@@ -10,6 +10,7 @@
 <a href="https://www.hackerrank.com/riveraeddy58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edisonrivera" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/812859"><img align="center" src="media/hack-the-box.svg" height="30" width="40"></a>
 <a href="https://www.leetcode.com/edisonrivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edisonrivera" height="30" width="40" /></a>
+<a href="https://app.codesignal.com/profile/edisonrivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edisonrivera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
