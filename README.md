@@ -15,7 +15,7 @@
  <a href="https://www.codewars.com/users/edisonrivera"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="30"></a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">👨‍💻 Lenguajes y herramientas:</h3>
 
 <p align="left">
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/> </a>
@@ -29,7 +29,7 @@
 </p>
  
 
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">📧 Contáctame:</h3>
 <p align="left">
 <a href="mailto:riveraeddy58@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
