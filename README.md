@@ -4,7 +4,7 @@
 
 * 🏫 Estudiante de Tecnología Superior en Desarrollo de Software en la **Escuela Politécnica Nacional**.
 * 👨‍💻 Actualmente aprendiendo: **Ciberseguridad**.
-* 💼 Visita mi <a href="https://edisonrivera.netlify.app" target="_blank">portafolio</a>
+* 📟 Visita mi <a href="https://edisonrivera.github.io/" target="_blank">Página Web</a>
 * 📝 Hecha un vistazo a mi [CV](https://mnf.red/4595f88f-0a61-4d9b-a579-c27602f1d2a1)
 <h3 align="left">🌐 Plataformas Web:</h3>
 <p align="left">
