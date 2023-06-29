@@ -39,11 +39,6 @@
 </a>
 </p> 
 
-<h3 align="left">Estadisticas:</h3>
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edisonrivera&show_icons=true" alt="aakarshteja_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonrivera&layout=compact" alt="aakarshteja_stats" />
-</p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edisonrivera" alt="badges"/></p>
 
