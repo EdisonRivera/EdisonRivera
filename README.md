@@ -4,21 +4,30 @@
 
 * 🏫 Estudiante de Tecnología Superior en Desarrollo de Software en la **Escuela Politécnica Nacional**.
 * 👨‍💻 Actualmente aprendiendo: **Ciberseguridad**.
-* 💼 Visita mi <a href="https://edisonrivera.netlify.app" target="_blank">portafolio</a>
-* 📝 Hecha un vistazo a mi [CV](https://mnf.red/4595f88f-0a61-4d9b-a579-c27602f1d2a1)
-<h3 align="left">Plataformas:</h3>
+* 📟 Visita mi <a href="https://edisonrivera.github.io/" target="_blank">Página Web</a>
+* 📝 Hecha un vistazo a mi [CV](https://epnecuador-my.sharepoint.com/:b:/g/personal/edison_rivera_epn_edu_ec/ETZdOaAfiWRNgTv58clhweIB-qmJ-x9ohwCS_wFRtzOMiQ?e=FcApDQ)
+<h3 align="left">🌐 Plataformas Web:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/riveraeddy58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="edisonrivera" height="30" width="40" /></a>
-<a href="https://app.hackthebox.com/profile/812859"><img align="center" src="media/hack-the-box.svg" height="30" width="40"></a>
-<a href="https://www.leetcode.com/edisonrivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="edisonrivera" height="30" width="40" /></a>
-<a href="https://app.codesignal.com/profile/edisonrivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="edisonrivera" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/riveraeddy58" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="edisonrivera" height="30"/></a>
+<a href="https://app.hackthebox.com/profile/812859"><img align="center" src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" height="30"></a>
+<a href="https://www.leetcode.com/edisonrivera" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="edisonrivera" height="30"/></a>
+<a href="https://app.codesignal.com/profile/edisonrivera" target="blank"><img align="center" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt="edisonrivera" height="30"/></a>
+ <a href="https://www.codewars.com/users/edisonrivera"><img align="center" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="30"></a>
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h3 align="left">👨‍💻 Lenguajes y herramientas:</h3>
+
+<p align="left">
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/> </a> 
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> 
+<a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/></a> 
+</p>
  
 
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">📧 Contáctame:</h3>
 <p align="left">
 <a href="mailto:riveraeddy58@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -28,12 +37,7 @@
 </a>
 </p> 
 
-<h3 align="left">Estadisticas:</h3>
-<p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edisonrivera&show_icons=true" alt="aakarshteja_stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonrivera&layout=compact" alt="aakarshteja_stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edisonrivera&" alt="aakarshteja_stats"/>
-</p>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edisonrivera" alt="badges"/></p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=edisonrivera&label=Profile%20views&color=0e75b6&style=flat" alt="edisonrivera" /> </p>
