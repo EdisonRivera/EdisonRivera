@@ -1,6 +1,6 @@
-<h1 align="center">Edison Rivera</h1>
-
-<img align="right" alt="Coding" width="400" src="media/programmer_gif.gif">
+<p align="center">
+  <img alt="Banner" src="media/banner.png"/>
+</p>
 
 * 🏫 Estudiante de Tecnología Superior en Desarrollo de Software en la **Escuela Politécnica Nacional**.
 * 👨‍💻 Actualmente aprendiendo: **Ciberseguridad**.
