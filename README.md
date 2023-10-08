@@ -37,7 +37,7 @@
 </a>
 </p> 
 
-
+<h3 align="left">🥇 Logros:</h3>
 <p>
  <a href="https://academy.hackthebox.com/achievement/badge/2cd04919-648e-11ee-aac4-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/tester-path.png"></a>
  <a href="https://academy.hackthebox.com/achievement/badge/4d30068a-2c9e-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/basic-path.png"></a>
