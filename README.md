@@ -5,7 +5,7 @@
 * 🏫 Estudiante de Tecnología Superior en Desarrollo de Software en la **Escuela Politécnica Nacional**.
 * 👨‍💻 Actualmente aprendiendo: **Ciberseguridad**.
 * 📟 Visita mi <a href="https://edisonrivera.github.io/" target="_blank">Página Web</a>
-* 📝 Hecha un vistazo a mi [CV](https://mnf.red/4595f88f-0a61-4d9b-a579-c27602f1d2a1)
+* 📝 Hecha un vistazo a mi [CV](https://epnecuador-my.sharepoint.com/:b:/g/personal/edison_rivera_epn_edu_ec/ETZdOaAfiWRNgTv58clhweIB-qmJ-x9ohwCS_wFRtzOMiQ?e=FcApDQ)
 <h3 align="left">🌐 Plataformas Web:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/riveraeddy58" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="edisonrivera" height="30"/></a>
