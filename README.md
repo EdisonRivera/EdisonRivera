@@ -38,6 +38,13 @@
 </p> 
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edisonrivera" alt="badges"/></p>
+<p>
+ <a href="https://academy.hackthebox.com/achievement/badge/2cd04919-648e-11ee-aac4-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/tester-path.png"></a>
+ <a href="https://academy.hackthebox.com/achievement/badge/4d30068a-2c9e-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/basic-path.png"></a>
+ <a href="https://academy.hackthebox.com/achievement/badge/00c175f3-3b85-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/ad-module.png"></a>
+ <a href="https://academy.hackthebox.com/achievement/badge/dac3c973-3d70-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/enterprise-module.png"></a>
+ <a href="https://academy.hackthebox.com/achievement/badge/0ea6b989-1c44-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/pivoting-module.png"></a>
+</p>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=edisonrivera&label=Profile%20views&color=0e75b6&style=flat" alt="edisonrivera" /> </p>
