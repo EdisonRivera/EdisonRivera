@@ -2,10 +2,13 @@
   <img alt="Banner" src="media/banner.png"/>
 </p>
 
-* 🏫 Estudiante de Tecnología Superior en Desarrollo de Software en la **Escuela Politécnica Nacional**.
-* 👨‍💻 Actualmente aprendiendo: **Ciberseguridad**.
-* 📟 Visita mi <a href="https://edisonrivera.github.io/" target="_blank">Página Web</a>
-* 📝 Hecha un vistazo a mi [CV](https://epnecuador-my.sharepoint.com/:b:/g/personal/edison_rivera_epn_edu_ec/EeKu2AyjVjFNmrMSboYtZ6kBFG5yeswx61q0vMDDmNUnaQ?e=V5JDqK)
+Soy un **Pentester Junior** (Red Team 🚩) con un año de experiencia. A lo largo de este tiempo me he enfrentado a cientos de máquinas en [HackTheBox](https://hackthebox.com/) y [Vulnhub](https://www.vulnhub.com/), de las cuales tengo cada uno de los writeups en mi [blog](https://edisonrivera.github.io/) 👀
+. Mi experiencia incluye pentesting en una variedad de entornos, sistemas y aplicaciones, con un enfoque en la identificación de vulnerabilidades. ⚔
+
+Mi formación académica la realizo en las plataformas: [HackTheBox Academy](https://academy.hackthebox.com/) y [Hack4u](https://hack4u.io/)
+
+
+* 📝 Puedes consultar mi [CV](https://epnecuador-my.sharepoint.com/:b:/g/personal/edison_rivera_epn_edu_ec/EeKu2AyjVjFNmrMSboYtZ6kBFG5yeswx61q0vMDDmNUnaQ?e=V5JDqK)
 <h3 align="left">🌐 Plataformas Web:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/riveraeddy58" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="edisonrivera" height="30"/></a>
