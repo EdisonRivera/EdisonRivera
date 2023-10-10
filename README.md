@@ -49,6 +49,3 @@ Mi formación académica la realizo en las plataformas: [HackTheBox Academy](htt
  <a href="https://academy.hackthebox.com/achievement/badge/0ea6b989-1c44-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Badge" width="325" src="media/badges/pivoting-module.png"></a>
  <a href="https://academy.hackthebox.com/achievement/badge/5ec15b13-66f1-11ee-aac4-bea50ffe6cb4" target="_blank"><img alt="Badge" width="325" src="media/badges/crt-path.png"></a>
 </p>
-
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=edisonrivera&label=Profile%20views&color=0e75b6&style=flat" alt="edisonrivera" /> </p>
