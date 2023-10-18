@@ -48,4 +48,5 @@ Mi formación académica la realizo en las plataformas: [HackTheBox Academy](htt
  <a href="https://academy.hackthebox.com/achievement/badge/dac3c973-3d70-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Badge" width="325" src="media/badges/enterprise-module.png"></a>
  <a href="https://academy.hackthebox.com/achievement/badge/0ea6b989-1c44-11ee-acfc-bea50ffe6cb4" target="_blank"><img alt="Badge" width="325" src="media/badges/pivoting-module.png"></a>
  <a href="https://academy.hackthebox.com/achievement/badge/5ec15b13-66f1-11ee-aac4-bea50ffe6cb4" target="_blank"><img alt="Badge" width="325" src="media/badges/crt-path.png"></a>
+ <a href="https://academy.hackthebox.com/achievement/badge/c8b311a2-6d60-11ee-aac4-bea50ffe6cb4" target="_blank"><img alt="Coding" width="325" src="media/badges/bug-bounty-path.png"></a>
 </p>
