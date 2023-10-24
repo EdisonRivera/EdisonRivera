@@ -8,7 +8,7 @@ Soy un **Pentester Junior** (Red Team 🚩) con un año de experiencia. A lo lar
 Mi formación académica la realizo en las plataformas: [HackTheBox Academy](https://academy.hackthebox.com/) y [Hack4u](https://hack4u.io/)
 
 
-* 📝 Puedes consultar mi [CV](https://epnecuador-my.sharepoint.com/:b:/g/personal/edison_rivera_epn_edu_ec/EeKu2AyjVjFNmrMSboYtZ6kBFG5yeswx61q0vMDDmNUnaQ?e=V5JDqK)
+* 📝 Puedes consultar mi [CV](https://epnecuador-my.sharepoint.com/:b:/g/personal/edison_rivera_epn_edu_ec/EeKu2AyjVjFNmrMSboYtZ6kBFG5yeswx61q0vMDDmNUnaQ?e=fSHvaR)
 <h3 align="left">🌐 Plataformas Web:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/riveraeddy58" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="edisonrivera" height="30"/></a>
